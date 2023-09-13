@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d84226479989cea4eb1dea4add7312ba, type: 3}
+  m_Name: "\u7403\u72B6DNA\u75C5\u6BD2\u788E\u7247-\u6E05\u6D17\u540E"
+  m_EditorClassIdentifier: 
+  input: {fileID: 11400000, guid: 0f3d01df38c33c640a95285550eb4add, type: 2}
+  output: {fileID: 11400000, guid: d4ef61781f605bf428a7f362fdbeab8d, type: 2}
+  cuttingProgressMax: 3

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5372aafb9633a2040b979b6c892ae678, type: 3}
+  m_Name: "\u51A0\u72B6RNA\u75C5\u6BD2gRNA\u548C\u7C89\u8272\u86CB\u767D-\u51A0\u72B6RNA\u75C5\u6BD2+\u7C89\u8272\u86CB\u767D"
+  m_EditorClassIdentifier: 
+  input: {fileID: 11400000, guid: 83280d854a6299c4591c7c74400c0c6c, type: 2}
+  output: {fileID: 11400000, guid: 96cca1fe907bf7145b4628f397cf7af0, type: 2}
+  fryingTimerMax: 3

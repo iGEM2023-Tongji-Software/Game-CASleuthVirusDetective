@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 925f9f586c71e7b449fc35c06ee6bb37, type: 3}
+  m_Name: "\u80F6\u56CA\u72B6RNA\u75C5\u6BD2+\u7EFF\u8272\u86CB\u767D"
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 3219085927327766431, guid: 84d9833f51cbd564ba7d220654a45f9e, type: 3}
+  sprite: {fileID: 21300000, guid: 25e4c1b2eab2883498506f12e114d144, type: 3}
+  objectName: rv2-CAS12-detRNP

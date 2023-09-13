@@ -1,0 +1,12 @@
+/KItchenChaos/Library/
+/KItchenChaos/Temp/
+/KItchenChaos/Logs/
+/KItchenChaos/.vs/
+/KItchenChaos/obj/
+/KItchenChaos/Assets/_Assets/病毒材质/
+*.csproj
+*.sln
+*.userprefs
+*.unityproj
+*.DS_Store
+*.log

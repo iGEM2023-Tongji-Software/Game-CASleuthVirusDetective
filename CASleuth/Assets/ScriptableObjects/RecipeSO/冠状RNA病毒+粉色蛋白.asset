@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f3e831c8edf03d468aa4d30cd179b68, type: 3}
+  m_Name: "\u51A0\u72B6RNA\u75C5\u6BD2+\u7C89\u8272\u86CB\u767D"
+  m_EditorClassIdentifier: 
+  kitchenObjectSOList:
+  - {fileID: 11400000, guid: 83280d854a6299c4591c7c74400c0c6c, type: 2}
+  - {fileID: 11400000, guid: bdff35ab3c7f3704ab4d9ac79848aa22, type: 2}
+  - {fileID: 11400000, guid: 96cca1fe907bf7145b4628f397cf7af0, type: 2}
+  recipeName: rv1-CAS13-detRNP
